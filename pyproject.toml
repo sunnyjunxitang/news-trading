@@ -1,0 +1,7 @@
+[project]
+name = "news-trading"
+version = "0.1.0"
+description = "a python script that gives trading advice based on twitter news from influencial people"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
